@@ -6,12 +6,6 @@ This is a collection of my Free Code Camp projects and certifications
 
 ___
 
-## Contents
-
-- [Responsive Web Design](#responsive-web-design)
-- [JavaScript Algorithms and Data Structures](#javascript-algorithms-and-data-structures)
-___
-
 ## [Responsive Web Design](https://www.freecodecamp.org/certification/idonevenknow/responsive-web-design)
 
 In this course I learnt how to utilize HTML and CSS to make websites.
@@ -24,7 +18,7 @@ In this course I learnt how to utilize HTML and CSS to make websites.
 
 ___
 
-## JavaScript Algorithms and Data Structures(https://www.freecodecamp.org/certification/idonevenknow/javascript-algorithms-and-data-structures)
+## [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/idonevenknow/javascript-algorithms-and-data-structures)
 
 1. [Palindrome Checker]()
 2. [Roman Numeral Coverter]()
