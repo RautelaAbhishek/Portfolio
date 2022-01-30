@@ -4,5 +4,5 @@ This is a collection of all 100 projects I made during the [100 Days of Code Boo
 
 ## Contents
 
-1. [Day 1]
-2. [Day 2]
+1. [Band Name Generator]
+2. 
