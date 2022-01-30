@@ -8,12 +8,11 @@ ___
 
 ## Contents
 
-- [Responsive Web Design]
-- [JavaScript Algorithms and Data Structures]
-
+- [Responsive Web Design](#responsive-web-design)
+- [JavaScript Algorithms and Data Structures](#javascript-algorithms-and-data-structures)
 ___
 
-## Responsive Web Design
+## [Responsive Web Design](https://www.freecodecamp.org/certification/idonevenknow/responsive-web-design)
 
 In this course I learnt how to utilize HTML and CSS to make websites.
 
@@ -25,4 +24,10 @@ In this course I learnt how to utilize HTML and CSS to make websites.
 
 ___
 
-## JavaScript Algorithms and Data Structures
+## JavaScript Algorithms and Data Structures(https://www.freecodecamp.org/certification/idonevenknow/javascript-algorithms-and-data-structures)
+
+1. [Palindrome Checker]()
+2. [Roman Numeral Coverter]()
+3. [Caesars Cipher]()
+4. [Telephone Number Validator]()
+5. [Cash Register]()
