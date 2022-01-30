@@ -1,2 +1,8 @@
-# 100-Days-Code-Projects
-This repository contains the projects I completed during the 100 days of code challenge
+# Portfolio
+
+This repository contains a list of projects and certifications I have gotten
+
+## Contents
+
+- [100 Days of Code](.../100_Days_of_Code)
+- [Free Code Camp]
