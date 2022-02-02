@@ -21,7 +21,7 @@ This is a collection of my Free Code Camp projects and certifications
 
 ### JavaScript Algorithms and Data Structures (JavaScript)
 
-1. [Palindrome Checker](Palindrome-Checker)
+1. [Palindrome Checker](Projects/Palindrome-Checker)
 2. [Roman Numeral Coverter](Projects/Cash-Register)
 3. [Caesars Cipher](Projects/Caesars-Cipher)
 4. [Telephone Number Validator](Projects/Telephone-Number-Validator)
