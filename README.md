@@ -4,5 +4,6 @@ This repository contains a list of projects and certifications I have gotten
 
 ## Contents
 
-- [100 Days of Code](https://github.com/RautelaAbhishek/100-Days-Code-Projects/tree/Main/100_Days_Of_Code)
+- [Python Projects](https://github.com/RautelaAbhishek/100-Days-Code-Projects/tree/Main/Python-Projects)
 - [Free Code Camp](https://github.com/RautelaAbhishek/100-Days-Code-Projects/tree/Main/Free-Code-Camp)
+- [LinkedIn Learning]()
