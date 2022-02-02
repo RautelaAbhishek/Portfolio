@@ -1,0 +1,74 @@
+function checkCashRegister(price, cash, cid) {
+  var change = [];
+  var status;
+  var ret = cash - price;
+  var drawer = 0;
+  var exact = ret.toFixed(2);
+  var dVal = [0.01,0.05,0.1,0.25,1,5,10,20,100];
+  var cAmt = [];
+  var left;
+  var changeAmt;
+
+  for (let i = 0;i<cid.length;i++){
+    cAmt.push((cid[i][1]/dVal[i]).toFixed(0))
+    
+  }
+  
+  
+  for (let i = 0;i<dVal.length-1;i++){
+    drawer = drawer + (cAmt[i]*dVal[i])
+  }
+  console.log(drawer)
+
+  for (let i = cAmt.length-1;i>=0;i--){
+    
+    left = 0;
+    changeAmt = 0;
+    while (exact >= dVal[i] && cAmt[i]>0){
+      exact = (exact - dVal[i]).toFixed(2);
+      cAmt[i]--
+      left++;
+      changeAmt++;
+      console.log(exact,changeAmt*dVal[i]);
+    }
+    if (left  > 0){
+      if(i == cAmt.length - 1){
+
+      }
+      else{
+        change.push([cid[i][0],changeAmt*dVal[i]])
+      }
+      console.log(change)
+    }
+    
+  }
+
+
+  if (exact > 0){
+    status = 'INSUFFICIENT_FUNDS'
+    change = []
+  }
+  else if (drawer == ret){
+    status = 'CLOSED';
+    for (let i = 1;i<cid.length;i++){
+      change.push(cid[i])
+    }
+
+  }
+  else{
+    status = 'OPEN';
+    
+  }
+
+
+
+
+  
+   
+
+ 
+  console.log(cAmt)
+  return {status,change};
+}
+
+console.log(checkCashRegister(19.5, 20, [["PENNY", 1.01], ["NICKEL", 2.05], ["DIME", 3.1], ["QUARTER", 4.25], ["ONE", 90], ["FIVE", 55], ["TEN", 20], ["TWENTY", 60], ["ONE HUNDRED", 100]]))
