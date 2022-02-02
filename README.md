@@ -14,3 +14,18 @@ My certifications can be found on my [LinkedIn Profile](https://www.linkedin.com
 4. [Rock Paper Scissors](Projects/4.Rock-Paper-Scissors.py)
 5. [Password Generator](Projects/5.Password-Generator.py) 
 
+## HTML and CSS Projects
+
+1. [Survey Form](https://codepen.io/idonevenknow/full/YzVyeNO)
+2. [Tribute Page](https://codepen.io/idonevenknow/full/zYwGmMa)
+3. [Technical Documentation Page](https://codepen.io/idonevenknow/full/mdmrOdO)
+4. [Product Landing Page](https://codepen.io/idonevenknow/full/rNmLrYw)
+5. [Portfolio Page](https://codepen.io/idonevenknow/full/QWvpEzo)
+
+## JavaScript Projects
+
+1. [Palindrome Checker](Projects/Palindrome-Checker)
+2. [Roman Numeral Coverter](Projects/Cash-Register)
+3. [Caesars Cipher](Projects/Caesars-Cipher)
+4. [Telephone Number Validator](Projects/Telephone-Number-Validator)
+5. [Cash Register](Projects/Cash-Register)
