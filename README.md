@@ -14,7 +14,7 @@ My certifications can be found on my [LinkedIn Profile](https://www.linkedin.com
 4. [Rock Paper Scissors](Projects/4.Rock-Paper-Scissors.py)
 5. [Password Generator](Projects/5.Password-Generator.py)
 6. [Hangman](Projects/6.Hangman.py)
-7. [Ceasar Cipher](Projects/7.Ceasar-Cipher.py)
+7. [Ceasar Cipher](Projects/7.Caesar-Cipher.py)
 
 ## HTML and CSS Projects
 
