@@ -16,6 +16,7 @@ My certifications can be found on my [LinkedIn Profile](https://www.linkedin.com
 6. [Hangman](Projects/6.Hangman.py)
 7. [Ceasar Cipher](Projects/7.Caesar-Cipher.py)
 8. [Secret Auction](Projects/8.Secret-Auction.py)
+9. [Calculator](Projects/9.Calculator.py)
 
 ## HTML and CSS Projects
 
