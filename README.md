@@ -19,6 +19,7 @@ My certifications can be found on my [LinkedIn Profile](https://www.linkedin.com
 9. [Calculator](Projects/9.Calculator.py)
 10. [Blackjack](Projects/10.Blackjack.py)
 11. [Guess the Number](Projects/11.Guess-the-number.py)
+12. [Higher Lower](Projects/12.Higher-lower.py)
 
 ## HTML and CSS Projects
 
