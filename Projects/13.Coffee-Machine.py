@@ -25,8 +25,8 @@ espresso_cost = 1.50
 latte_cost = 2.50
 coffee_cost = 3
 
-water = 500
-milk = 500
+water = 300
+milk = 200
 coffee = 100
 money = 0
 
