@@ -19,22 +19,6 @@ screen.setup(width=800,height=600)
 screen.bgcolor('black')
 screen.title('Pong')
 screen.tracer(0)
-
-# ## Initialize Turtle
-# split = Turtle()
-# ## Setup Splitscreen 
-# split.speed(0)
-# split.hideturtle()
-# split.color('white')
-# split.setheading(270)
-# split.width(10)
-# split.penup()
-# split.goto(x=0,y=300)
-# for i in range(int(600/(LINE+GAP))):
-#     split.pendown()
-#     split.forward(LINE)
-#     split.penup()
-#     split.forward(GAP)
     
 # Initialize Bars
 player_1 = Bar(-350)
@@ -43,6 +27,7 @@ player_2 = Bar(350)
 # Initialize Ball
 ball = Ball()
 
+# Initialize Scoreboard
 scoreboard = Scoreboard()
 scoreboard.update()
 
